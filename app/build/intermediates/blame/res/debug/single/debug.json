@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\770-2\\AndroidStudioProjects\\BarcodeScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_google_cloud.png.flat",
-        "source": "C:\\Users\\770-2\\AndroidStudioProjects\\BarcodeScanner\\app\\src\\main\\res\\drawable\\logo_google_cloud.png"
-    },
-    {
         "merged": "C:\\Users\\770-2\\AndroidStudioProjects\\BarcodeScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_live_barcode.xml.flat",
         "source": "C:\\Users\\770-2\\AndroidStudioProjects\\BarcodeScanner\\app\\src\\main\\res\\layout\\activity_live_barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\770-2\\AndroidStudioProjects\\BarcodeScanner\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_google_cloud.png.flat",
+        "source": "C:\\Users\\770-2\\AndroidStudioProjects\\BarcodeScanner\\app\\src\\main\\res\\drawable\\logo_google_cloud.png"
     },
     {
         "merged": "C:\\Users\\770-2\\AndroidStudioProjects\\BarcodeScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout_products_preview_card.xml.flat",
