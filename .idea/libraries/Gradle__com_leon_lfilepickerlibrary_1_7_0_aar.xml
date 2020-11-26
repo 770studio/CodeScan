@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.leon:lfilepickerlibrary:1.7.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a930a0375409ccae9cc4c7106bc1457f/jetified-lfilepickerlibrary-1.7.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a930a0375409ccae9cc4c7106bc1457f/jetified-lfilepickerlibrary-1.7.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a930a0375409ccae9cc4c7106bc1457f/jetified-lfilepickerlibrary-1.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a930a0375409ccae9cc4c7106bc1457f/jetified-lfilepickerlibrary-1.7.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.leon/lfilepickerlibrary/1.7.0/72cb77f26809e2f454bb9b73447f903a8613f9c2/lfilepickerlibrary-1.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.leon/lfilepickerlibrary/1.7.0/f7c598d445cc2a8c52fbfc8255445fb61ca0f1d3/lfilepickerlibrary-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

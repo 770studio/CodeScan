@@ -272,6 +272,7 @@ class MainActivity : AppCompatActivity(), OnClickListener {
             jsonParams = JSONObject()
             jsonParams.put("codeValue", codeValue)
             jsonParams.put("is_qr", isQR)
+            jsonParams.put("codeType", codeType )
         } catch (e: JSONException) {
             e.printStackTrace()
             Alert("A JSONException2 error occured. Please try again later.")

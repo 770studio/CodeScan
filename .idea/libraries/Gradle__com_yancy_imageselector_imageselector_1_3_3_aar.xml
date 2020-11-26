@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yancy.imageselector:imageselector:1.3.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbcf5baf9e6dce54cadcfdbdda02e85f/jetified-imageselector-1.3.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbcf5baf9e6dce54cadcfdbdda02e85f/jetified-imageselector-1.3.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cbcf5baf9e6dce54cadcfdbdda02e85f/jetified-imageselector-1.3.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yancy.imageselector/imageselector/1.3.3/38f4edc11dca212357a400c46209af1fcf5ec329/imageselector-1.3.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yancy.imageselector/imageselector/1.3.3/d54ead4bf159e2206c3a068084f21e515c0f0e6f/imageselector-1.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
